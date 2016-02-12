@@ -1,1 +1,4 @@
 Hello World How are you
+http://blog.ralch.com/tutorial/golang-command-line-pipes/
+http://stackoverflow.com/questions/12363030/read-from-initial-stdin-in-go
+https://coderwall.com/p/zyxyeg/golang-having-fun-with-os-stdin-and-shell-pipes
